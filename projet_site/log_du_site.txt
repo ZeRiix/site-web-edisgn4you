@@ -1,0 +1,8 @@
+2021/04/11 - 15:54:06 - connexion à la page Connexion : Martin avec l'id 2 le mail martin@gmail.com dans le pays France avec l'addresse ip 127.0.0.1.
+2021/04/11 - 15:54:16 - le temps passé sur la page Connexion pour l'instant est de : 10s pour l'utilisateur : Martin avec l'id : 2 et le mail : martin@gmail.com
+2021/04/11 - 15:54:17 - connexion à la page Accueil : Martin avec l'id 2 le mail martin@gmail.com dans le pays France avec l'addresse ip 127.0.0.1.
+2021/04/11 - 15:54:27 - le temps passé sur la page Accueil pour l'instant est de : 10s pour l'utilisateur : Martin avec l'id : 2 et le mail : martin@gmail.com
+2021/04/11 - 15:54:37 - le temps passé sur la page Accueil pour l'instant est de : 20s pour l'utilisateur : Martin avec l'id : 2 et le mail : martin@gmail.com
+2021/04/11 - 15:54:47 - le temps passé sur la page Accueil pour l'instant est de : 30s pour l'utilisateur : Martin avec l'id : 2 et le mail : martin@gmail.com
+2021/04/11 - 15:54:57 - le temps passé sur la page Accueil pour l'instant est de : 40s pour l'utilisateur : Martin avec l'id : 2 et le mail : martin@gmail.com
+2021/04/11 - 15:55:07 - le temps passé sur la page Accueil pour l'instant est de : 50s pour l'utilisateur : Martin avec l'id : 2 et le mail : martin@gmail.com

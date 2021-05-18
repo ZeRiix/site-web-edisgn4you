@@ -1,0 +1,73 @@
+.buttonAdmin {
+    width: 80%;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.spacer30 {
+    height: 30px;
+}
+.logoAdmin {
+    margin-top: 8px;
+}
+#footer {
+    background-color: #7e9138;
+    height: 70px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.compteur {
+    margin-left: 10%;
+}
+.textLabelButtonAdmin {
+    margin-bottom: 2%;
+}
+::-webkit-scrollbar {
+    width: 0;
+}
+
+#scrollpath {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 10px;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.05);
+    z-index: 1000000;
+}
+
+#progressbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 10px;
+    height: 100%;
+    background: linear-gradient(to bottom, #161616, #515956, #7e9138, #10591d);
+    animation: animate 5s linear infinite;
+    z-index: 50000000000;
+}
+
+#progressbar::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, #161616, #515956, #7e9138, #10591d);
+    filter: blur(10px);
+}
+
+#progressbar::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, #161616, #515956, #7e9138, #10591d);
+    filter: blur(30px);
+}
